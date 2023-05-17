@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jay Kirtlan.
 ====================================================================================================================================
 
-Full-Stack Web Developer.
+Junior Full-Stack Web Developer.
 -------------------------
 
 I've been an Auxilary Nurse working in a busy city Intensive care unit for the past Seven years and now I'm looking for something new. I'm currently learning Full-Stack Web Development with the School of Code with an end goal of gaining a job in Web Development.
 
 * 🌍  I'm based in Liverpool (United Kindgom)
-* 🧠  I'm learning React.js currently
+* 🧠  I'm SQL and BackEnd Basics
 * 🤝  I'm open to collaborating on anything front or back end that I can learn from.
 * ⚡  I love guitar, Country and Western music and Video Games.
 
-### Skills
+### Skills I'm Learning.
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
