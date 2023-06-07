@@ -7,7 +7,7 @@ Junior Full-Stack Web Developer.
 I've been an Auxilary Nurse working in a busy city Intensive care unit for the past Seven years and now I'm looking for something new. I'm currently learning Full-Stack Web Development with the School of Code with an end goal of gaining a job in Web Development.
 
 * 🌍  I'm based in Liverpool (United Kindgom)
-* 🧠  I'm SQL and BackEnd Basics
+* 🧠  I'm currently working on School of Codes Final Project.
 * 🤝  I'm open to collaborating on anything front or back end that I can learn from.
 * ⚡  I love guitar, Country and Western music and Video Games.
 
