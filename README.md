@@ -9,7 +9,7 @@ I've been an Auxilary Nurse working in a busy city Intensive care unit for the p
 * 🌍  I'm based in Liverpool (United Kindgom)
 * 🧠  I'm currently working on School of Codes Final Project.
 * 🤝  I'm open to collaborating on anything front or back end that I can learn from.
-* ⚡  I love guitar, Country and Western music and Video Games.
+* ⚡  I love learning new languages, Guitar, Country and Western music and Video Games.
 
 ### Skills I'm Learning.
 
