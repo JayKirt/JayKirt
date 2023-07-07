@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full-Stack Web Developer.
 -------------------------
 
-I've been an Auxilary Nurse working in a busy city Intensive care unit for the past Seven years and now I'm looking for something new. I'm currently learning Full-Stack Web Development with the School of Code with an end goal of gaining a job in Web Development.
+I've been an Auxiliary Nurse working in a busy city Intensive care unit for the past Seven years and now I'm looking for something new. I'm currently learning Full-Stack Web Development with the School of Code with an end goal of gaining a job in Web Development.
 
 * 🌍  I'm based in Liverpool (United Kindgom)
 * 🧠  I'm currently working on School of Codes Final Project.
